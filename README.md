@@ -69,9 +69,11 @@
 
 ## 📫 Conecta conmigo
 
-<<p align="center">
+<p align="center">
+  📧 <strong>Email:</strong> samuelruizmartin2412@gmail.com
+  <br><br>
   <a href="mailto:samuelruizmartin2412@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
+    <img src="https://img.shields.io/badge/Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
   </a>
   <a href="https://www.linkedin.com/in/samuel-ruizmartin-92b18434b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
@@ -80,7 +82,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" />
   </a>
 </p>
-
 ---
 
 ## 🎯 Objetivos 2026
