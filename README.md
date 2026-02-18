@@ -1,7 +1,7 @@
 <h1 align="center">👨‍🚀 YinYan</h1>
 
 <p align="center">
-  <img src="https://c.tenor.com/I6kN-6X7nhAAAAAC/typing-typing-fast.gif" width="600" alt="Typing animation"/>
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="600" alt="Typing animation"/>
 </p>
 
 ---
@@ -15,33 +15,56 @@
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías y Habilidades
 
 <p align="center">
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/java.png" width="50" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/javascript.png" width="50" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/html.png" width="50" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/css.png" width="50" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/mysql.png" width="50" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/git.png" width="50" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/github.png" width="50" alt="GitHub"/>
 </p>
+
+### ⚡ Habilidades (Nivel de dominio)
+- **Java:** ![██████████](https://img.shields.io/badge/Java-90%25-brightgreen)
+- **JavaScript:** ![████████░░](https://img.shields.io/badge/JavaScript-75%25-yellow)
+- **SQL/MySQL:** ![████████░░](https://img.shields.io/badge/SQL-70%25-blue)
+- **HTML/CSS:** ![██████████](https://img.shields.io/badge/HTML/CSS-85%25-orange)
+- **Git/GitHub:** ![█████████░](https://img.shields.io/badge/Git/GitHub-80%25-lightgrey)
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-🔹 ⚔️ [Simulación de combate en Java](https://github.com/TheYinYan/simulacion-combate)  
-🔹 🧮 [Calculadora en JavaScript](https://github.com/TheYinYan/calculadora-js)  
-🔹 📄 [Lenguaje de Marca](https://github.com/TheYinYan/lenguaje-marca)  
+<p align="center">
+  <a href="https://github.com/TheYinYan/simulacion-combate">
+    <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/combat.gif" width="250" alt="Simulación de combate"/>
+  </a>
+  <a href="https://github.com/TheYinYan/calculadora-js">
+    <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/calculator.gif" width="250" alt="Calculadora"/>
+  </a>
+  <a href="https://github.com/TheYinYan/lenguaje-marca">
+    <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/markup.png" width="250" alt="Lenguaje de Marca"/>
+  </a>
+</p>
 
 ---
 
-## 📊 Estadísticas
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheYinYan&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYinYan&layout=compact&theme=tokyonight" alt="Top languages"/>
+</p>
+
+---
+
+## 🐱 Contribuciones
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/TheYinYan" alt="GitHub contribution chart" width="700"/>
 </p>
 
 ---
@@ -63,8 +86,8 @@
 ## 📫 Contáctame
 
 <p align="center">
-<a href="mailto:tuemail@example.com">✉️ Email</a> •
-<a href="https://www.linkedin.com/in/tu-linkedin">💼 LinkedIn</a> •
+<a href="mailto:samuelruizmartin2412@gmail.com">✉️ Email</a> •
+<a href="https://www.linkedin.com/in/samuel-ruizmartin-92b18434b/">💼 LinkedIn</a> •
 <a href="https://github.com/TheYinYan">🐱 GitHub</a>
 </p>
 
