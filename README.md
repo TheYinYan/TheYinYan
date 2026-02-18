@@ -1,7 +1,7 @@
 <h1 align="center">👨‍🚀 YinYan</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="600" alt="Typing animation"/>
+  <img src="./assets/typing.gif" width="600" alt="Typing animation"/>
 </p>
 
 ---
@@ -18,21 +18,14 @@
 ## 🛠️ Tecnologías y Habilidades
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/java.png" width="50" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/javascript.png" width="50" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/html.png" width="50" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/css.png" width="50" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/mysql.png" width="50" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/git.png" width="50" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/github.png" width="50" alt="GitHub"/>
+  <img src="./assets/java.png" width="50" alt="Java"/>
+  <img src="./assets/javascript.png" width="50" alt="JavaScript"/>
+  <img src="./assets/html.png" width="50" alt="HTML"/>
+  <img src="./assets/css.png" width="50" alt="CSS"/>
+  <img src="./assets/mysql.png" width="50" alt="MySQL"/>
+  <img src="./assets/git.png" width="50" alt="Git"/>
+  <img src="./assets/github.png" width="50" alt="GitHub"/>
 </p>
-
-### ⚡ Habilidades (Nivel de dominio)
-- **Java:** ![██████████](https://img.shields.io/badge/Java-90%25-brightgreen)
-- **JavaScript:** ![████████░░](https://img.shields.io/badge/JavaScript-75%25-yellow)
-- **SQL/MySQL:** ![████████░░](https://img.shields.io/badge/SQL-70%25-blue)
-- **HTML/CSS:** ![██████████](https://img.shields.io/badge/HTML/CSS-85%25-orange)
-- **Git/GitHub:** ![█████████░](https://img.shields.io/badge/Git/GitHub-80%25-lightgrey)
 
 ---
 
@@ -40,13 +33,13 @@
 
 <p align="center">
   <a href="https://github.com/TheYinYan/simulacion-combate">
-    <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/combat.gif" width="250" alt="Simulación de combate"/>
+    <img src="./assets/combat.gif" width="250" alt="Simulación de combate"/>
   </a>
   <a href="https://github.com/TheYinYan/calculadora-js">
-    <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/calculator.gif" width="250" alt="Calculadora"/>
+    <img src="./assets/calculator.gif" width="250" alt="Calculadora"/>
   </a>
   <a href="https://github.com/TheYinYan/lenguaje-marca">
-    <img src="https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/assets/markup.png" width="250" alt="Lenguaje de Marca"/>
+    <img src="./assets/markup.png" width="250" alt="Lenguaje de Marca"/>
   </a>
 </p>
 
