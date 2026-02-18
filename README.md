@@ -25,9 +25,9 @@
 
 ## 🚀 Proyectos Destacados
 
-🔹 ⚔️ Simulación de combate en Java  
-🔹 🧮 Calculadora en JavaScript  
-🔹 📄 Lenguaje de Marca  
+🔹 ⚔️ [Simulación de combate en Java](https://github.com/TheYinYan/simulacion-combate)  
+🔹 🧮 [Calculadora en JavaScript](https://github.com/TheYinYan/calculadora-js)  
+🔹 📄 [Lenguaje de Marca](https://github.com/TheYinYan/lenguaje-marca)  
 
 ---
 
@@ -36,6 +36,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheYinYan&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheYinYan&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYinYan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -48,14 +52,27 @@
 
 ---
 
-## 🌠 Objetivo
+## 🌠 Objetivos
 
-Convertirme en desarrollador backend sólido dominando:
+**Corto plazo:**  
+- Dominar backend con Java y SQL  
+- Mejorar buenas prácticas y testing  
+- Crear proyectos sólidos y escalables  
 
-- Arquitectura limpia
-- Testing
-- Patrones de diseño
-- Optimización
+**Largo plazo:**  
+- Arquitectura limpia y patrones de diseño  
+- Optimización y rendimiento avanzado  
+- Convertirme en desarrollador backend profesional  
+
+---
+
+## 📫 Contáctame
+
+<p align="center">
+<a href="mailto:tuemail@example.com">✉️ Email</a> •
+<a href="https://www.linkedin.com/in/tu-linkedin">💼 LinkedIn</a> •
+<a href="https://github.com/TheYinYan">🐱 GitHub</a>
+</p>
 
 ---
 
