@@ -1,7 +1,7 @@
 # ⚡ YinYan - Explorador del Código
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=%C2%A1Hola%2C+soy+YinYan!+%F0%9F%9A%80;Desarrollador+Backend+en+formaci%C3%B3n;Estudiante+de+DAM;Apasionado+por+el+c%C3%B3digo+limpio;Love+Programar+❤️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=%C2%A1Hola%2C+soy+YinYan!+%F0%9F%9A%80;Desarrollador+Backend+en+formaci%C3%B3n;Estudiante+de+DAM;Apasionado+por+el+c%C3%B3digo+limpio;Love+Programar+❤️" alt="Typing SVG"/>
 </p>
 
 <p align="center">
