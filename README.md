@@ -80,7 +80,7 @@
       <div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
         <div>
           <h4 style="margin: 15px 0; font-size: 18px; white-space: nowrap;">🌌 Star Wars Fan</h4>
-          <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>Página temática responsive</em></p>
+          <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>Página temática de Star Wars responsive</em></p>
         </div>
         <div>
           <a href="https://theyinyan.github.io/Star-Wars/" target="_blank">
@@ -97,7 +97,7 @@
       <div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
         <div>
           <h4 style="margin: 15px 0; font-size: 18px; white-space: nowrap;">🎮 Videojuego JS</h4>
-          <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>Juego interactivo con Canvas</em></p>
+          <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>Juego interactivo con Canvas basado en Pac-Man</em></p>
         </div>
         <div>
           <a href="https://theyinyan.github.io/Trabajo_VideoJuego_JS/" target="_blank">
