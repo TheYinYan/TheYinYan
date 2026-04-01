@@ -54,8 +54,101 @@
 ---
 
 <div align="center">
-🚀 Proyectos Destacados
-<table width="100%" style="width: 100%; max-width: 100%; table-layout: fixed; border-collapse: separate; border-spacing: 25px;"> <tr> <td width="25%" align="center" valign="top" style="padding: 25px; background-color: #0a0a0a; border-radius: 20px; height: 500px;"> <div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;"> <div> <h4 style="margin: 15px 0; font-size: 18px; white-space: nowrap;">🧮 Calculadora JS</h4> <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>Calculadora funcional con interfaz limpia</em></p> </div> <div> <a href="https://theyinyan.github.io/Calculadora/" target="_blank"> <img src="https://img.shields.io/badge/🚀_Probar-00F7FF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0a0a0a&color=00F7FF" width="160"/> </a> <br><br> <a href="https://github.com/TheYinYan/Calculadora" target="_blank"> <img src="https://img.shields.io/badge/📁_Ver_Código-666?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=666" width="140"/> </a> </div> </div> </td> <td width="25%" align="center" valign="top" style="padding: 25px; background-color: #0a0a0a; border-radius: 20px; height: 500px;"> <div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;"> <div> <h4 style="margin: 15px 0; font-size: 18px; white-space: nowrap;">🌌 Star Wars Fan</h4> <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>Página temática responsive de Star Wars</em></p> </div> <div> <a href="https://theyinyan.github.io/Star-Wars/" target="_blank"> <img src="https://img.shields.io/badge/🚀_Probar-FFE81F?style=for-the-badge&logo=html5&logoColor=white&labelColor=0a0a0a&color=FFE81F" width="160"/> </a> <br><br> <a href="https://github.com/TheYinYan/Star-Wars" target="_blank"> <img src="https://img.shields.io/badge/📁_Ver_Código-666?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=666" width="140"/> </a> </div> </div> </td> <td width="25%" align="center" valign="top" style="padding: 25px; background-color: #0a0a0a; border-radius: 20px; height: 500px;"> <div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;"> <div> <h4 style="margin: 15px 0; font-size: 18px; white-space: nowrap;">🎮 Videojuego JS</h4> <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>Juego interactivo con Canvas Estilo Retro</em></p> </div> <div> <a href="https://theyinyan.github.io/Trabajo_VideoJuego_JS/" target="_blank"> <img src="https://img.shields.io/badge/🚀_Probar-33FF57?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0a0a0a&color=33FF57" width="160"/> </a> <br><br> <a href="https://github.com/TheYinYan/Trabajo_VideoJuego_JS" target="_blank"> <img src="https://img.shields.io/badge/📁_Ver_Código-666?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=666" width="140"/> </a> </div> </div> </td> <td width="25%" align="center" valign="top" style="padding: 25px; background-color: #0a0a0a; border-radius: 20px; height: 500px;"> <div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;"> <div> <h4 style="margin: 15px 0; font-size: 18px; white-space: nowrap;">🖖 Piedra, Papel,<br>Lagarto, Spock</h4> <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>Juego de The Big Bang Theory</em></p> </div> <div> <a href="https://theyinyan.github.io/PIEDRA--PAPEL--TIJERA--LAGARTO--SPOCK/" target="_blank"> <img src="https://img.shields.io/badge/🚀_Probar-FF69B4?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0a0a0a&color=FF69B4" width="160"/> </a> <br><br> <a href="https://github.com/TheYinYan/PIEDRA--PAPEL--TIJERA--LAGARTO--SPOCK" target="_blank"> <img src="https://img.shields.io/badge/📁_Ver_Código-666?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=666" width="140"/> </a> </div> </div> </td> </tr> <tr> <td colspan="4" align="center" style="padding: 40px;"> <h4>🚧 Próximamente</h4> <a href="#"> <img src="https://img.shields.io/badge/🚀_API_REST_Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=0a0a0a&color=6DB33F" width="300"/> </a> <br><br> <img src="https://img.shields.io/badge/🔨_Estado-En_Desarrollo-yellow?style=for-the-badge&labelColor=0a0a0a&color=yellow" width="200"/> </td> </tr> </table></div>
+
+## 🚀 Proyectos Destacados
+
+<table width="100%" style="width: 100%; max-width: 100%; table-layout: fixed; border-collapse: separate; border-spacing: 25px;">
+   <tr>
+    <td width="25%" align="center" valign="top" style="padding: 25px; background-color: #0a0a0a; border-radius: 20px; height: 500px;">
+      <div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
+        <div>
+          <h4 style="margin: 15px 0; font-size: 18px; white-space: nowrap;">🧮 Calculadora JS</h4>
+          <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>Calculadora funcional con interfaz limpia</em></p>
+        </div>
+        <div>
+          <a href="https://theyinyan.github.io/Calculadora/" target="_blank">
+            <img src="https://img.shields.io/badge/🚀_Probar-00F7FF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0a0a0a&color=00F7FF" width="160"/>
+          </a>
+          <br><br>
+          <a href="https://github.com/TheYinYan/Calculadora" target="_blank">
+            <img src="https://img.shields.io/badge/📁_Ver_Código-666?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=666" width="140"/>
+          </a>
+        </div>
+      </div>
+    </td>
+    <td width="25%" align="center" valign="top" style="padding: 25px; background-color: #0a0a0a; border-radius: 20px; height: 500px;">
+      <div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
+        <div>
+          <h4 style="margin: 15px 0; font-size: 18px; white-space: nowrap;">🌌 Star Wars Fan</h4>
+          <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>Página temática responsive</em></p>
+        </div>
+        <div>
+          <a href="https://theyinyan.github.io/Star-Wars/" target="_blank">
+            <img src="https://img.shields.io/badge/🚀_Probar-FFE81F?style=for-the-badge&logo=html5&logoColor=white&labelColor=0a0a0a&color=FFE81F" width="160"/>
+          </a>
+          <br><br>
+          <a href="https://github.com/TheYinYan/Star-Wars" target="_blank">
+            <img src="https://img.shields.io/badge/📁_Ver_Código-666?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=666" width="140"/>
+          </a>
+        </div>
+      </div>
+    </td>
+    <td width="25%" align="center" valign="top" style="padding: 25px; background-color: #0a0a0a; border-radius: 20px; height: 500px;">
+      <div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
+        <div>
+          <h4 style="margin: 15px 0; font-size: 18px; white-space: nowrap;">🎮 Videojuego JS</h4>
+          <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>Juego interactivo con Canvas</em></p>
+        </div>
+        <div>
+          <a href="https://theyinyan.github.io/Trabajo_VideoJuego_JS/" target="_blank">
+            <img src="https://img.shields.io/badge/🚀_Probar-33FF57?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0a0a0a&color=33FF57" width="160"/>
+          </a>
+          <br><br>
+          <a href="https://github.com/TheYinYan/Trabajo_VideoJuego_JS" target="_blank">
+            <img src="https://img.shields.io/badge/📁_Ver_Código-666?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=666" width="140"/>
+          </a>
+        </div>
+      </div>
+    </td>
+    <td width="25%" align="center" valign="top" style="padding: 25px; background-color: #0a0a0a; border-radius: 20px; height: 500px;">
+      <div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
+        <div>
+          <h4 style="margin: 15px 0; font-size: 18px; white-space: nowrap;">🖖 Piedra, Papel,<br>Lagarto, Spock</h4>
+          <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>Juego de The Big Bang Theory</em></p>
+        </div>
+        <div>
+          <a href="https://theyinyan.github.io/PIEDRA--PAPEL--TIJERA--LAGARTO--SPOCK/" target="_blank">
+            <img src="https://img.shields.io/badge/🚀_Probar-FF69B4?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0a0a0a&color=FF69B4" width="160"/>
+          </a>
+          <br><br>
+          <a href="https://github.com/TheYinYan/PIEDRA--PAPEL--TIJERA--LAGARTO--SPOCK" target="_blank">
+            <img src="https://img.shields.io/badge/📁_Ver_Código-666?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=666" width="140"/>
+          </a>
+        </div>
+      </div>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="4" align="center" style="padding: 40px;">
+      <h4>🚧 Próximamente</h4>
+      <a href="#">
+        <img src="https://img.shields.io/badge/🚀_API_REST_Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=0a0a0a&color=6DB33F" width="300"/>
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/🔨_Estado-En_Desarrollo-yellow?style=for-the-badge&labelColor=0a0a0a&color=yellow" width="200"/>
+    </td>
+   </tr>
+</table>
+
+</div>
+
+---
+
+## 📚 Otros Proyectos
+
+- **Chistes de Chuck Norris** — Recopilación de chistes del famoso Chuck Norris [🔗 Probar](https://theyinyan.github.io/CHISTES-DE-CHUCK-NORRIS/) · [📁 Código](https://github.com/TheYinYan/CHISTES-DE-CHUCK-NORRIS)
+
+- 🎬 **Próximamente** — Más proyectos en desarrollo
 
 ---
 
@@ -103,5 +196,3 @@
 <p align="center">
   <b>⭐ “El código es infinito, como el universo.” ⭐</b>
 </p>
-
----
