@@ -128,16 +128,6 @@
       </div>
     </td>
    </tr>
-   <tr>
-    <td colspan="4" align="center" style="padding: 40px;">
-      <h4>🚧 Próximamente</h4>
-      <a href="#">
-        <img src="https://img.shields.io/badge/🚀_API_REST_Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=0a0a0a&color=6DB33F" width="300"/>
-      </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/🔨_Estado-En_Desarrollo-yellow?style=for-the-badge&labelColor=0a0a0a&color=yellow" width="200"/>
-    </td>
-   </tr>
 </table>
 
 </div>
