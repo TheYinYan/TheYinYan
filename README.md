@@ -136,7 +136,7 @@
 
 ## 📚 Otros Proyectos
 
-- **Chistes de Chuck Norris** — Recopilación de chistes del famoso Chuck Norris [🔗 Probar](https://theyinyan.github.io/CHISTES-DE-CHUCK-NORRIS/) · [📁 Código](https://github.com/TheYinYan/CHISTES-DE-CHUCK-NORRIS)
+- 🤣 **Chistes de Chuck Norris** — Recopilación de chistes del famoso Chuck Norris [🔗 Probar](https://theyinyan.github.io/CHISTES-DE-CHUCK-NORRIS/) · [📁 Código](https://github.com/TheYinYan/CHISTES-DE-CHUCK-NORRIS)
 
 - 🧮 **Calculadora JS** — Calculadora funcional con interfaz limpia [🔗 Probar](https://theyinyan.github.io/Calculadora/) · [📁 Código](https://github.com/TheYinYan/Calculadora)
 
