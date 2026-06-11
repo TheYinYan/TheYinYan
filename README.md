@@ -66,7 +66,7 @@
                     <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>API REST + Frontend God of War (Node.js, MySQL, Cloud)</em></p>
                 </div>
                 <div>
-                    <a href="https://god-of-api.onrender.com/" target="_blank">
+                    <a href="https://god-of-apiz.onrender.com" target="_blank">
                         <img src="https://img.shields.io/badge/🚀_Probar-8B0000?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0a0a0a&color=8B0000" width="160"/>
                     </a>
                     <br><br>
