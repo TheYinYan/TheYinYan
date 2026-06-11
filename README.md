@@ -171,19 +171,20 @@
 
 ## 🎯 Objetivos 2026
 
-- [x] Consolidar fundamentos de Java
-- [x] Completar proyectos frontend
-- [ ] Dominar Spring Boot
-- [ ] Crear API REST completa
-- [ ] Implementar tests unitarios
-- [ ] Contribuir a open source
-
+| Objetivo | Estado |
+|:--------|:------:|
+| ✅ Consolidar fundamentos de Java | ![100%](https://img.shields.io/badge/100%25-Completado-brightgreen?style=flat-square) |
+| ✅ Completar proyectos frontend | ![100%](https://img.shields.io/badge/100%25-Completado-brightgreen?style=flat-square) |
+| ✅ Desarrollar app con API externa | ![100%](https://img.shields.io/badge/100%25-Completado-brightgreen?style=flat-square) |
+| 🚀 Dominar Spring Boot | ![60%](https://img.shields.io/badge/60%25-En_curso-yellow?style=flat-square) |
+| 🚀 Crear API REST propia | ![40%](https://img.shields.io/badge/40%25-En_curso-yellow?style=flat-square) |
+| 🌍 Crear Web Personal  | ![0%](https://img.shields.io/badge/0%25-Pendiente-red?style=flat-square) |
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=⚡%20Explorando%20el%20universo%20del%20código%20⚡&fontSize=24&fontAlignY=70" />
+  <b>⭐ “El código es infinito, como el universo.” ⭐</b>
 </p>
 
 <p align="center">
-  <b>⭐ “El código es infinito, como el universo.” ⭐</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=⚡%20Explorando%20el%20universo%20del%20código%20⚡&fontSize=24&fontAlignY=70" />
 </p>
