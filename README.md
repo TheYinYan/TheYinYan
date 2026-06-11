@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/github/followers/TheYinYan?label=Seguidores&style=flat-square&color=blue" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/TheYinYan?label=Estrellas&style=flat-square&color=yellow" alt="GitHub stars" />
 </p>
+
 ---
 
 ## 🌌 Sobre mí
@@ -61,8 +62,25 @@
         <td width="25%" align="center" valign="top" style="padding: 25px; background-color: #0a0a0a; border-radius: 20px; height: 500px;">
             <div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
                 <div>
+                    <h4 style="margin: 15px 0; font-size: 18px; white-space: nowrap;">⚡ God of API</h4>
+                    <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>API REST + Frontend God of War (Node.js, MySQL, Cloud)</em></p>
+                </div>
+                <div>
+                    <a href="https://god-of-api.onrender.com/" target="_blank">
+                        <img src="https://img.shields.io/badge/🚀_Probar-8B0000?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0a0a0a&color=8B0000" width="160"/>
+                    </a>
+                    <br><br>
+                    <a href="https://github.com/TheYinYan/God_of_API" target="_blank">
+                        <img src="https://img.shields.io/badge/📁_Ver_Código-666?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=666" width="140"/>
+                    </a>
+                </div>
+            </div>
+        </td>
+        <td width="25%" align="center" valign="top" style="padding: 25px; background-color: #0a0a0a; border-radius: 20px; height: 500px;">
+            <div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
+                <div>
                     <h4 style="margin: 15px 0; font-size: 18px; white-space: nowrap;">🏴‍☠️ One Piece Wanted</h4>
-                    <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>API de One Piece con carteles WANTED</em></p>
+                    <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>Consumo de API pública con carteles WANTED</em></p>
                 </div>
                 <div>
                     <a href="https://theyinyan.github.io/ProyectoAPI/" target="_blank">
@@ -78,25 +96,8 @@
         <td width="25%" align="center" valign="top" style="padding: 25px; background-color: #0a0a0a; border-radius: 20px; height: 500px;">
             <div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
                 <div>
-                    <h4 style="margin: 15px 0; font-size: 18px; white-space: nowrap;">🌌 Star Wars Fan</h4>
-                    <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>Página temática responsive, inspirada en Star Wars</em></p>
-                </div>
-                <div>
-                    <a href="https://theyinyan.github.io/Star-Wars/" target="_blank">
-                        <img src="https://img.shields.io/badge/🚀_Probar-FFE81F?style=for-the-badge&logo=html5&logoColor=white&labelColor=0a0a0a&color=FFE81F" width="160"/>
-                    </a>
-                    <br><br>
-                    <a href="https://github.com/TheYinYan/Star-Wars" target="_blank">
-                        <img src="https://img.shields.io/badge/📁_Ver_Código-666?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=666" width="140"/>
-                    </a>
-                </div>
-            </div>
-        </td>
-        <td width="25%" align="center" valign="top" style="padding: 25px; background-color: #0a0a0a; border-radius: 20px; height: 500px;">
-            <div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
-                <div>
                     <h4 style="margin: 15px 0; font-size: 18px; white-space: nowrap;">🎮 Videojuego JS</h4>
-                    <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>Juego interactivo con Canvas, inspirado en Pac-Man</em></p>
+                    <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>Juego interactivo con Canvas, estilo retro</em></p>
                 </div>
                 <div>
                     <a href="https://theyinyan.github.io/Trabajo_VideoJuego_JS/" target="_blank">
@@ -135,11 +136,9 @@
 
 ## 📚 Otros Proyectos
 
-- 🤣 **Chistes de Chuck Norris** — Recopilación de chistes del famoso Chuck Norris [🔗 Probar](https://theyinyan.github.io/CHISTES-DE-CHUCK-NORRIS/) · [📁 Código](https://github.com/TheYinYan/CHISTES-DE-CHUCK-NORRIS)
-
+- 🌌 **Star Wars Fan** — Página temática responsive, inspirada en Star Wars [🔗 Probar](https://theyinyan.github.io/Star-Wars/) · [📁 Código](https://github.com/TheYinYan/Star-Wars)
 - 🧮 **Calculadora JS** — Calculadora funcional con interfaz limpia [🔗 Probar](https://theyinyan.github.io/Calculadora/) · [📁 Código](https://github.com/TheYinYan/Calculadora)
-
-- 🎬 **Próximamente** — Más proyectos en desarrollo
+- 🤣 **Chistes de Chuck Norris** — Recopilación de chistes del famoso Chuck Norris [🔗 Probar](https://theyinyan.github.io/CHISTES-DE-CHUCK-NORRIS/) · [📁 Código](https://github.com/TheYinYan/CHISTES-DE-CHUCK-NORRIS)
 
 ---
 
@@ -176,13 +175,14 @@
 | ✅ Consolidar fundamentos de Java | ![100%](https://img.shields.io/badge/100%25-Completado-brightgreen?style=flat-square) |
 | ✅ Completar proyectos frontend | ![100%](https://img.shields.io/badge/100%25-Completado-brightgreen?style=flat-square) |
 | ✅ Desarrollar app con API externa | ![100%](https://img.shields.io/badge/100%25-Completado-brightgreen?style=flat-square) |
+| ✅ Desplegar API REST completa en la nube | ![100%](https://img.shields.io/badge/100%25-Completado-brightgreen?style=flat-square) |
 | 🚀 Dominar Spring Boot | ![60%](https://img.shields.io/badge/60%25-En_curso-yellow?style=flat-square) |
-| 🚀 Crear API REST propia | ![40%](https://img.shields.io/badge/40%25-En_curso-yellow?style=flat-square) |
-| 🌍 Crear Web Personal  | ![0%](https://img.shields.io/badge/0%25-Pendiente-red?style=flat-square) |
+| 🌍 Crear Web Personal | ![0%](https://img.shields.io/badge/0%25-Pendiente-red?style=flat-square) |
+
 ---
 
 <p align="center">
-  <b>⭐ “El código es infinito, como el universo.” ⭐</b>
+  <b>⭐ "El código es infinito, como el universo." ⭐</b>
 </p>
 
 <p align="center">
