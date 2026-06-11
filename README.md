@@ -6,10 +6,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheYinYan&label=Visitantes&color=00F7FF&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/TheYinYan?label=Seguidores&style=flat-square&color=blue&cache=3600" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/TheYinYan?label=Estrellas&style=flat-square&color=yellow&cache=3600" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/followers/TheYinYan?label=Seguidores&style=flat-square&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/TheYinYan?label=Estrellas&style=flat-square&color=yellow" alt="GitHub stars" />
 </p>
-
 ---
 
 ## 🌌 Sobre mí
