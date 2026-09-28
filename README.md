@@ -140,6 +140,7 @@
 - 🧮 **Calculadora JS** — Calculadora funcional con interfaz limpia [🔗 Probar](https://theyinyan.github.io/Calculadora/) · [📁 Código](https://github.com/TheYinYan/Calculadora)
 - 🧮 **Calculadora Con TypeScrip** — Calculadora funcional con interfaz limpia [📁 Código](https://github.com/TheYinYan/Calculadora_Con_TypeScript)
 - 🤣 **Chistes de Chuck Norris** — Recopilación de chistes del famoso Chuck Norris [🔗 Probar](https://theyinyan.github.io/CHISTES-DE-CHUCK-NORRIS/) · [📁 Código](https://github.com/TheYinYan/CHISTES-DE-CHUCK-NORRIS)
+- **Mi CV profesionalcon Angular** - Creacion de un CV con angular 19 -  [📁 Código](https://github.com/TheYinYan/Mi-CV-profesional-con-Angular)
 
 ---
 
