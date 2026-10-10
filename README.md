@@ -99,12 +99,12 @@
         <td width="25%" align="center" valign="top" style="padding: 25px; background-color: #0a0a0a; border-radius: 20px; height: 500px;">
             <div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
                 <div>
-                    <h4 style="margin: 15px 0; font-size: 18px; white-space: nowrap;">🎮 Videojuego JS</h4>
+                    <h4 style="margin: 15px 0; font-size: 18px; white-space: nowrap;">🎮 Survivor JS</h4>
                     <p style="margin: 10px 0; font-size: 14px; line-height: 1.4;"><em>Juego interactivo con Canvas, estilo retro</em></p>
                 </div>
                 <div>
                     <a href="https://theyinyan.github.io/Trabajo_VideoJuego_JS/" target="_blank">
-                        <img src="https://img.shields.io/badge/🚀_Probar-33FF57?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0a0a0a&color=33FF57" width="160"/>
+                        <img src="https://img.shields.io/badge/🚀_Probar-2E8B57?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0a0a0a&color=2E8B57" width="160"/>
                     </a>
                     <br><br>
                     <a href="https://github.com/TheYinYan/Trabajo_VideoJuego_JS" target="_blank">
