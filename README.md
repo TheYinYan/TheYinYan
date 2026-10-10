@@ -1,7 +1,7 @@
 # ⚡ YinYan - Explorador del Código
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=%C2%A1Hola%2C+soy+YinYan!+%F0%9F%9A%80;Desarrollador+Backend+en+formaci%C3%B3n;Estudiante+de+DAM;Apasionado+por+el+c%C3%B3digo+limpio;Love+Programar+❤️" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=%C2%A1Hola%2C+soy+YinYan!+%F0%9F%9A%80;Desarrollador+Backend+en+formaci%C3%B3n;Estudiante+de+DAM;Apasionado+por+el+c%C3%B3digo+limpio;I+Love+Programar+❤️" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -28,6 +28,8 @@
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -41,6 +43,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 </p>
 
 ### 📚 Aprendiendo
@@ -50,7 +54,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-
 ---
 
 <div align="center">
@@ -137,10 +140,11 @@
 ## 📚 Otros Proyectos
 
 - 🌌 **Star Wars Fan** — Página temática responsive, inspirada en Star Wars [🔗 Probar](https://theyinyan.github.io/Star-Wars/) · [📁 Código](https://github.com/TheYinYan/Star-Wars)
-- 🧮 **Calculadora JS** — Calculadora funcional con interfaz limpia [🔗 Probar](https://theyinyan.github.io/Calculadora/) · [📁 Código](https://github.com/TheYinYan/Calculadora)
-- 🧮 **Calculadora Con TypeScrip** — Calculadora funcional con interfaz limpia [📁 Código](https://github.com/TheYinYan/Calculadora_Con_TypeScript)
+- 🧮 **Calculadora JS** — Calculadora funcional con interfaz limpia [🔗 Probar](https://theyinyan.github.io/Calculadora/) · [📁 Código](https://github.com/TheYinYan/Calculadora-JS)
+- 🧮 **Calculadora con TypeScript** — Calculadora funcional desarrollada con TypeScript [📁 Código](https://github.com/TheYinYan/Calculadora_Con_TypeScript)
+- 💼 **Mi CV profesional con Angular** — Creación de un CV con Angular 19 [📁 Código](https://github.com/TheYinYan/Mi-CV-profesional-con-Angular)
+- 💰 **TipCalculator** — Calculadora de propinas desarrollada en Kotlin [📁 Código](https://github.com/TheYinYan/TipCalculator)
 - 🤣 **Chistes de Chuck Norris** — Recopilación de chistes del famoso Chuck Norris [🔗 Probar](https://theyinyan.github.io/CHISTES-DE-CHUCK-NORRIS/) · [📁 Código](https://github.com/TheYinYan/CHISTES-DE-CHUCK-NORRIS)
-- **Mi CV profesionalcon Angular** - Creacion de un CV con angular 19 -  [📁 Código](https://github.com/TheYinYan/Mi-CV-profesional-con-Angular)
 
 ---
 
@@ -190,3 +194,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=⚡%20Explorando%20el%20universo%20del%20código%20⚡&fontSize=24&fontAlignY=70" />
 </p>
+
+---
