@@ -39,7 +39,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=https://raw.githubusercontent.com/TheYinYan/TheYinYan/main/vscode.svg&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIzLjE1IDIuNThMMTcuNDIgMC4xN2ExLjUgMS41IDAgMCAwLTEuOTYuNDJsLTYuNDcgNy40Ni0zLjgxLTIuODlhMS41IDEuNSAwIDAgMC0yLjA3LjE3TDAuOSA4LjE3YTEuNSAxLjUgMCAwIDAgMCAyLjE3bDMuODEgMi44OUwwLjkgMTYuMTdhMS41IDEuNSAwIDAgMCAwIDIuMTdsMi4yMSAyLjgzYTEuNSAxLjUgMCAwIDAgMi4wNy4xN2wzLjgxLTIuODkgNi40NyA3LjQ2YTEuNSAxLjUgMCAwIDAgMS45Ni40Mmw1LjczLTIuNDFhMS41IDEuNSAwIDAgMCAxLjE1LTEuNDVWNC4wM2ExLjUgMS41IDAgMCAwLTEuMTUtMS40NXpNMTcuOTIgMTguNDZsLTUuMTItNC40NCA1LjEyLTQuNDR2OC44OHptLTExLjQyLTQuNDRsMi41Ni0yLjIzLTIuNTYtMi4yM3Y0LjQ2eiIvPjwvc3ZnPg==&logoColor=white" />
+</a>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 </p>
 
